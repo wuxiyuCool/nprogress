@@ -1,6 +1,4 @@
-进度条框架
-
-NProgress
+NProgress 进度条框架
 =========
 
 [![Status](https://api.travis-ci.org/rstacruz/nprogress.svg?branch=master)](http://travis-ci.org/rstacruz/nprogress) 
